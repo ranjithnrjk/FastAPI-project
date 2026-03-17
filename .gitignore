@@ -2,6 +2,9 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.vscode
+ml_api\app\__pycache__
+ml_api\app\api\routes\__pycache__
 
 # C extensions
 *.so
